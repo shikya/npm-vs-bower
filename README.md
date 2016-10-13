@@ -1,7 +1,7 @@
 # npm-vs-bower
 Migrating bower to npm
 
-In this repository Web Application is present in 'src/main/app/'
+In this repository Web Application is present in 'src/main/app/' (current stucture of webui.forms)
 For progressive development we can use 'node http-server'
 
 Here Bower is package manager which deals with front-end dependancies
